@@ -1,0 +1,7 @@
+﻿.env
+genai-env/
+corpus/raw/
+__pycache__/
+*.pyc
+.DS_Store
+vectorstore/
